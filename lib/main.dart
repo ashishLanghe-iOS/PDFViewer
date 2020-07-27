@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Flutter PDF Tutorial"),
+          title: Text("My PDF Viewer"),
         ),
         body: Builder(
           builder: (context) => Column(
